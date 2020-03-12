@@ -12,13 +12,11 @@ install wordpress
 
 What things you need to install the software to getting started and how to install them
 
-```
 - [Wordpress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [MAMP](https://blank.com)
    MAMP installation and how to use description?
 - [VSCODE](https://blank.com)
    IDE setup?
-```
 
 ### Design Guidelines
 
