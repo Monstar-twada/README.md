@@ -4,25 +4,23 @@ A simple instructions for working enviroment and guidelines to getting started.
 
 ## Getting Started
 
-```
-install wordpress
-```
+how to install wordpress?
 
 ### Prerequisites
 
 What things you need to install the software to getting started and how to install them
 
 - [Wordpress](https://wordpress.org/support/article/how-to-install-wordpress/)
-- [MAMP](https://blank.com)
+- [MAMP](https://www.mamp.info/en/windows/)
    MAMP installation and how to use description?
-- [VSCODE](https://blank.com)
+- [VSCODE](https://code.visualstudio.com/download)
    IDE setup?
 
 ### Design Guidelines
 
 starter template for the CSS
 
--[Download](https://drive.google.com/file/d/1fgoVVlDlUUGGLpSwJ8JnoUgA68tYTy2x/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1fgoVVlDlUUGGLpSwJ8JnoUgA68tYTy2x/view?usp=sharing)
 
 ## Deployment
 
